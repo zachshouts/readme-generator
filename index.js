@@ -9,42 +9,42 @@ const questions = [
         message: 'Enter your project title.',
         name: 'title'
     },
-    // {
-    //     type: 'input',
-    //     message: 'Enter your project description.',
-    //     name: 'description'
-    // },
-    // {
-    //     type: 'input',
-    //     message: 'Enter installation instructions.',
-    //     name: 'installation'
-    // },
-    // {
-    //     type: 'input',
-    //     message: 'Enter usage instructions',
-    //     name: 'usage'
-    // },
-    // {
-    //     type: 'list',
-    //     message: 'Choose a license',
-    //     choices: ['None', 'Apache', 'MIT', 'Boost'],
-    //     name: 'license'
-    // },
-    // {
-    //     type: 'input',
-    //     message: 'Enter contributing information.',
-    //     name: 'contributing'
-    // },
-    // {
-    //     type: 'input',
-    //     message: 'Enter testing information.',
-    //     name: 'testing'
-    // },
-    // {
-    //     type: 'input',
-    //     message: 'Enter questions info.',
-    //     name: 'questions'
-    // }
+    {
+        type: 'input',
+        message: 'Enter your project description.',
+        name: 'description'
+    },
+    {
+        type: 'input',
+        message: 'Enter installation instructions.',
+        name: 'installation'
+    },
+    {
+        type: 'input',
+        message: 'Enter usage instructions',
+        name: 'usage'
+    },
+    {
+        type: 'list',
+        message: 'Choose a license',
+        choices: ['None', 'ISC', 'MIT', 'MPL 2.0', 'Apache 2.0'],
+        name: 'license'
+    },
+    {
+        type: 'input',
+        message: 'Enter contributing information.',
+        name: 'contributing'
+    },
+    {
+        type: 'input',
+        message: 'Enter testing information.',
+        name: 'testing'
+    },
+    {
+        type: 'input',
+        message: 'Enter questions info.',
+        name: 'questions'
+    }
 ];
 
 // TODO: Create a function to write README file
