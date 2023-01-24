@@ -1,5 +1,5 @@
 # Test
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   Description
   ## Table of Contents
@@ -20,5 +20,7 @@ This project is licensed under the terms of the MIT license.
   ## Testing
   Test
   ## Questions
-  Questions
+  Reach me at one of the following
+  * [Github](https://github.com/zachshouts)
+  * zachshouts@gmail.com
   
